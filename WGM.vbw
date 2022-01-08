@@ -1,0 +1,9 @@
+frmMain = 0, 0, 0, 0, C, 26, 26, 1455, 478, C
+modGeneral = 0, 0, 0, 0, C
+frmSelMap = 0, 0, 0, 0, C, 78, 78, 1507, 530, C
+modDirectorio = 0, 0, 0, 0, C
+modArchivo = 0, 0, 0, 0, C
+modConfig = 0, 0, 0, 0, C
+modGrid = 0, 0, 0, 0, C
+modImageProcess = 0, 0, 0, 0, C
+modPngGDI = 0, 0, 0, 0, C
